@@ -1,6 +1,6 @@
 # Visual Dialog (VisDial) task
 Visual Dialog needs an AI agent to chat with humans in natural, conversational language about visual content.<br>
-Specifically, given a specific image, a dialog history, and a follow-up question about the image, the task for the AI agent is to answer the follow-up in free-form natural language.<br>
+Specifically, given a specific image, a dialog history, and a follow-up question about the image, the task for the AI agent is to answer the question in free-form natural language.<br>
 
 # About me
 
