@@ -1,5 +1,5 @@
 # Visual Dialog (VisDial)
-Visual Dialog requires an AI agent to hold a meaningful dialog with humans in natural, conversational language about visual content. Specifically, given an image, a dialog history, and a follow-up question about the image, the task is to answer the question. [ref: https://visualdialog.org/]
+“Visual Dialog requires an AI agent to hold a meaningful dialog with humans in natural, conversational language about visual content. Specifically, given an image, a dialog history, and a follow-up question about the image, the task is to answer the question.” [ref: https://visualdialog.org/]
 
 
 # About me
@@ -16,3 +16,7 @@ Now I've been working on the GuessWhich, Visual Dialog(VisDial) and Talking-to-V
 
 # Training 
 
+# References
+1. Abhishek Das, Satwik Kottur, Khushi Gupta, Avi Singh, Deshraj Yadav, José M.F. Moura, Devi Parikh, Dhruv Batra. Visual Dialog. In CVPR 2017.<br>
+2. Abhishek Das, Satwik Kottur, Khushi Gupta, Avi Singh, Deshraj Yadav, José M.F. Moura, Devi Parikh, Dhruv Batra. Visual Dialog: Supplementary Document. In CVPR 2017.<br>
+3. ...<br>
