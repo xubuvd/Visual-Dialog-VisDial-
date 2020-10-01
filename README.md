@@ -4,9 +4,9 @@ Specifically, given a specific image, a dialog history, and a follow-up question
 
 # About me
 
-虚步, a Ph.D. student at BUPT. I am very fortunate to be advised by my advisor. My research is in the area of Vision, Language, and Reasoning, with a focus on Visual Dialogue. I am particularly interested in building a visually-grounded conversational AI (social robot) that can see the world and talk with us in natural language. Other interests include Visual/Language Grounding, Visual Reasoning, Visual Question Generation, and Visually-grounded Referring Expression.<br>
+虚步, a Ph.D. student at BUPT. He is very fortunate to be advised by his advisor. His research is in the area of Vision, Language, and Reasoning, with a focus on Visual Dialogue. He is particularly interested in building a visually-grounded conversational AI (social robot) that can see the world and talk with us in natural language. Other interests include Visual/Language Grounding, Visual Reasoning, Visual Question Generation, and Visually-grounded Referring Expression.
 <br>
-Now I've been working on the GuessWhich, Visual Dialog(VisDial) and Talking-to-Videos(Video-Grounded Dialogue, https://github.com/xubuvd/VGDS) task, please feel free to contact me with pangweitf@bupt.edu.cn or pangweitf@163.com if you have any questions or concerns.<br>
+Now I've been working on the GuessWhich, Visual Dialog(VisDial) and Talking-to-Videos(Video-Grounded Dialogue) task, please feel free to contact me with pangweitf@bupt.edu.cn or pangweitf@163.com if you have any questions or concerns.
 
 # Paper
 
