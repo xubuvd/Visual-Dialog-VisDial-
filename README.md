@@ -1,20 +1,25 @@
-# About me
+# A novel framework for Visual Dialog(VisDial)
 
-虚步, a Ph.D. student at BUPT. He is very fortunate to be advised by his advisor. His research is in the area of Vision, Language, and Reasoning, with a focus on Visual Dialogue. He is particularly interested in building a visually-grounded conversational AI (social robot) that can see the world and talk with us in natural language. Other interests include Visual/Language Grounding, Visual Reasoning, Visual Question Generation, and Visually-grounded Referring Expression.
-<br>
-Now I've been working on the GuessWhich, Visual Dialog(VisDial) and Talking-to-Videos(Video-Grounded Dialogue) task, please feel free to contact me with pangweitf@bupt.edu.cn or pangweitf@163.com if you have any questions or concerns.
+Retrieve-based metrics on VisDial, i.e., NDCG, MRR, Mean, R@{1,5,10}, is not a good performance indicator to generate accurate, high-quality responses for Visual Dialog agent. However, we found that high NDCG and generated response quality are in the opposite direction.
+
+# Comparsion of generated examples on VisDial v1.0 val split (2064 generated dialogs)
+
+Please see all_generated_dialogs_2064_visdialv10val.txt
 
 # Visual Dialog (VisDial) task
-Visual Dialog needs an AI agent to chat with humans in natural, conversational language about visual content. Specifically, given a specific image, a dialog history, and a follow-up question about the image, the task for the AI agent is to answer the question in free-form natural language.
+Visual Dialog needs an AI agent to chat with humans in natural, conversational language about visual content. Specifically, given an image, a dialog history, and a follow-up question about the image, VisDial agent aims to answer the question in free-form natural language.
 
 # Paper
-
-# Performance
-
-# Training 
+our new paper is coming soon...
 
 # References
 1. https://visualdialog.org/<br>
-1. Abhishek Das, Satwik Kottur, Khushi Gupta, Avi Singh, Deshraj Yadav, José M.F. Moura, Devi Parikh, Dhruv Batra. Visual Dialog. In CVPR 2017.<br>
-2. Abhishek Das, Satwik Kottur, Khushi Gupta, Avi Singh, Deshraj Yadav, José M.F. Moura, Devi Parikh, Dhruv Batra. Visual Dialog: Supplementary Document. In CVPR 2017.<br>
-3. ...<br>
+1. Abhishek Das, et al. Visual Dialog. CVPR 2017<br>
+2. Abhishek Das, et al. Visual Dialog: Supplementary Document. CVPR 2017<br>
+3. https://github.com/batra-mlp-lab/visdial-challenge-starter-pytorch<br>
+4. ECCV2020-Large-scale Pretraining for Visual Dialog- A Simple State-of-the-Art Baseline. ECCV 2020<br>
+5. Efficient Attention Mechanism for Visual Dialog that can Handle All the Interactions between Multiple Inputs. ECCV 2020<br>
+6. UTC: A Unified Transformer with Inter-Task Contrastive Learning for Visual Dialog. CVPR 2022<br>
+7. Improving Cross-Modal Understanding in Visual Dialog via Contrastive Learning, ICASSP 2022<br>
+8. VU-BERT: A Unified framework for Visual Dialog, ICASSP 2022<br>
+9. Unsupervised and Pseudo-Supervised Vision-Language Alignment in Visual Dialog. ACM MM 2022<br>
