@@ -23,3 +23,6 @@ our new paper is coming soon...
 7. Improving Cross-Modal Understanding in Visual Dialog via Contrastive Learning, ICASSP 2022<br>
 8. VU-BERT: A Unified framework for Visual Dialog, ICASSP 2022<br>
 9. Unsupervised and Pseudo-Supervised Vision-Language Alignment in Visual Dialog. ACM MM 2022<br>
+10. Context-Aware Graph Inference With Knowledge Distillation for Visual Dialog. TPAMI 2022<br>
+11. Heterogeneous Knowledge Network for Visual Dialog. TCSVT 2022<br>
+12. SKANET: STRUCTURED KNOWLEDGE-AWARE NETWORK FOR VISUAL DIALOG. ICME 2021<br>
