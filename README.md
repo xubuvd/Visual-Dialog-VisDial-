@@ -1,6 +1,6 @@
 # A novel framework for Visual Dialog(VisDial)
 
-Retrieve-based metrics on VisDial, i.e., NDCG, MRR, Mean, R@{1,5,10}, is not a good performance indicator to generate accurate, high-quality responses for Visual Dialog agent. However, we found that high NDCG and generated response quality are in the opposite direction.
+Retrieve-based metrics on VisDial, i.e., NDCG, MRR, Mean, R@{1,5,10}, is not a good performance indicator in generative setting. We aim to build a network model for generating accurate, high-quality responses for Visual Dialog agent. However, we found that high NDCG and generated response quality are in the opposite direction.
 
 # Comparsion of generated examples on VisDial v1.0 val split (2064 generated dialogs)
 
