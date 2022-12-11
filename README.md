@@ -19,10 +19,14 @@ our new paper is coming soon...
 3. https://github.com/batra-mlp-lab/visdial-challenge-starter-pytorch<br>
 4. ECCV2020-Large-scale Pretraining for Visual Dialog- A Simple State-of-the-Art Baseline. ECCV 2020<br>
 5. Efficient Attention Mechanism for Visual Dialog that can Handle All the Interactions between Multiple Inputs. ECCV 2020<br>
-6. UTC: A Unified Transformer with Inter-Task Contrastive Learning for Visual Dialog. CVPR 2022<br>
-7. Improving Cross-Modal Understanding in Visual Dialog via Contrastive Learning, ICASSP 2022<br>
-8. VU-BERT: A Unified framework for Visual Dialog, ICASSP 2022<br>
-9. Unsupervised and Pseudo-Supervised Vision-Language Alignment in Visual Dialog. ACM MM 2022<br>
-10. Context-Aware Graph Inference With Knowledge Distillation for Visual Dialog. TPAMI 2022<br>
-11. Heterogeneous Knowledge Network for Visual Dialog. TCSVT 2022<br>
-12. SKANET: STRUCTURED KNOWLEDGE-AWARE NETWORK FOR VISUAL DIALOG. ICME 2021<br>
+6. Modality-Balanced Models for Visual Dialogue. AAAI 2020<br>
+7. DualVD-An Adaptive Dual Encoding Model for Deep Visual Understanding in Visual Dialogue. AAAI 2020<br>
+8. DMRM: A Dual-Channel Multi-Hop Reasoning Model for Visual Dialog. AAAI 2020<br>
+9. UTC: A Unified Transformer with Inter-Task Contrastive Learning for Visual Dialog. CVPR 2022<br>
+10. Improving Cross-Modal Understanding in Visual Dialog via Contrastive Learning, ICASSP 2022<br>
+11. VU-BERT: A Unified framework for Visual Dialog, ICASSP 2022<br>
+12. Unsupervised and Pseudo-Supervised Vision-Language Alignment in Visual Dialog. ACM MM 2022<br>
+13. Context-Aware Graph Inference With Knowledge Distillation for Visual Dialog. TPAMI 2022<br>
+14. Heterogeneous Knowledge Network for Visual Dialog. TCSVT 2022<br>
+15. SKANET: Structured Knowledge-Aware Network for Visual Dialog. ICME 2021<br>
+16. Multi-View Attention Network for Visual Dialog. Applied Sciences 2021<br>
